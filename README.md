@@ -13,10 +13,6 @@ After analyzing some of the data I have determined the following:
 - Visit the story here:  https://sajeanpage.github.io/module_15_leaflet_challenge/
 
 # ![banner](dashboard.PNG)
- 
-- Key technologies include:
-  - Tableau
-  
 
 - References
   - CityBike, System-Data. (2022). CitiBike Trip Data. Retrieved from https://ride.citibikenyc.com/system-data
