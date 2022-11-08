@@ -10,7 +10,7 @@ After analyzing some of the data I have determined the following:
 - The mean bike usage was about 550 trips during the observation period.
 - There were some outliers that made over 1600 trips during this period.  Those bikes are good candidates for maintenance.
 - Bikes that were the most used usually completed their rides near an interstate, bridge, or a major transportation connector
-- Visit the story here:  https://sajeanpage.github.io/module_15_leaflet_challenge/
+- Visit the story here:  https://public.tableau.com/app/profile/sarje.page/viz/CitiBikeNYStoryRidersandBikes/CitiBikeNYStoryRidersandBikes
 
 # ![banner](dashboard.PNG)
 
